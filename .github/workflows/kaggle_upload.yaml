@@ -1,0 +1,62 @@
+name: Upload Dataset to Kaggle
+
+on:
+  schedule:
+    - cron: "0 0 */7 * *"  # Runs every 7 days at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-dataset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install kaggle pandas
+
+      - name: Check if CSV files exist
+        id: check_csv
+        run: |
+          if find dataset_folder -type f -name "*.csv" 1> /dev/null 2>&1; then
+            echo "CSV files found. Skipping dataset generation."
+            echo "skip_generate=true" >> $GITHUB_ENV
+          else
+            echo "No CSV files found. Running dataset generation script."
+            echo "skip_generate=false" >> $GITHUB_ENV
+          fi
+
+      - name: Generate past seasons dataset
+        if: env.skip_generate == 'false'
+        run: python src/generate_past_seasons_dataset.py 
+
+      - name: Update current games/season to seasons dataset
+        run: python src/update_past_seasons_dataset.py 
+
+      - name: Create dataset on Kaggle (if not exists)
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          if ! kaggle datasets status "{{ secrets.KAGGLE_USERNAME }}/{{ secrets.KAGGLE_DATASETNAME }}"; then
+            kaggle datasets create -p dataset_folder --dir-mode zip
+          fi
+
+      - name: Zip Subfolders
+        run: |
+          cd dataset_folder
+          zip -rj 1_bundesliga.zip 1_bundesliga
+          zip -rj 2_bundesliga.zip 2_bundesliga
+          zip -rj 3_liga.zip 3_liga
+
+      - name: Upload updated dataset to Kaggle
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          kaggle datasets version -p dataset_folder -m "Updated dataset"

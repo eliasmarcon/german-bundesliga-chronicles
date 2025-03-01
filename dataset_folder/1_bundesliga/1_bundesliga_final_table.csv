@@ -1,0 +1,379 @@
+﻿League,Season,Team,Team_Short,Matches,Points,Won,Lost,Draw,Goals,Opponent_Goals,GoalDiff
+1. Bundesliga,2004/2005,FC Bayern München,Bayern,34,77,24,5,5,75,33,42
+1. Bundesliga,2004/2005,FC Schalke 04,Schalke,34,63,20,11,3,56,46,10
+1. Bundesliga,2004/2005,Werder Bremen,Bremen,34,59,18,11,5,68,37,31
+1. Bundesliga,2004/2005,Hertha BSC,Hertha,34,58,15,6,13,59,31,28
+1. Bundesliga,2004/2005,VfB Stuttgart,Stuttgart,34,58,17,10,7,54,40,14
+1. Bundesliga,2004/2005,Bayer Leverkusen,Leverkusen,34,57,16,9,9,65,44,21
+1. Bundesliga,2004/2005,Borussia Dortmund,Dortmund,34,55,15,9,10,47,44,3
+1. Bundesliga,2004/2005,Hamburger SV,HSV,34,51,16,15,3,55,50,5
+1. Bundesliga,2004/2005,VfL Wolfsburg,Wolfsburg,34,48,15,16,3,49,51,-2
+1. Bundesliga,2004/2005,Hannover 96,Hannover,34,45,13,15,6,34,36,-2
+1. Bundesliga,2004/2005,1. FSV Mainz 05,Mainz,34,43,12,15,7,50,55,-5
+1. Bundesliga,2004/2005,1. FC Kaiserslautern,Kaiserslautern,34,42,12,16,6,43,52,-9
+1. Bundesliga,2004/2005,Arminia Bielefeld,Bielefeld,34,40,11,16,7,37,49,-12
+1. Bundesliga,2004/2005,1. FC Nürnberg,Nürnberg,34,38,10,16,8,55,63,-8
+1. Bundesliga,2004/2005,Borussia Mönchengladbach,Gladbach,34,36,8,14,12,35,51,-16
+1. Bundesliga,2004/2005,VfL Bochum,Bochum,34,35,9,17,8,47,68,-21
+1. Bundesliga,2004/2005,FC Hansa Rostock,Rostock,34,30,7,18,9,31,65,-34
+1. Bundesliga,2004/2005,SC Freiburg,Freiburg,34,18,3,22,9,30,75,-45
+1. Bundesliga,2005/2006,FC Bayern München,Bayern,34,75,22,3,9,67,32,35
+1. Bundesliga,2005/2006,Werder Bremen,Bremen,34,70,21,6,7,79,37,42
+1. Bundesliga,2005/2006,Hamburger SV,HSV,34,68,21,8,5,53,30,23
+1. Bundesliga,2005/2006,FC Schalke 04,Schalke,34,61,16,5,13,47,31,16
+1. Bundesliga,2005/2006,Bayer Leverkusen,Leverkusen,34,52,14,10,10,64,49,15
+1. Bundesliga,2005/2006,Hertha BSC,Hertha,34,48,12,10,12,52,48,4
+1. Bundesliga,2005/2006,Borussia Dortmund,Dortmund,34,46,11,10,13,45,42,3
+1. Bundesliga,2005/2006,1. FC Nürnberg,Nürnberg,34,44,12,14,8,49,51,-2
+1. Bundesliga,2005/2006,VfB Stuttgart,Stuttgart,34,43,9,9,16,37,39,-2
+1. Bundesliga,2005/2006,Borussia Mönchengladbach,Gladbach,34,42,10,12,12,42,50,-8
+1. Bundesliga,2005/2006,1. FSV Mainz 05,Mainz,34,38,9,14,11,46,47,-1
+1. Bundesliga,2005/2006,Hannover 96,Hannover,34,38,7,10,17,43,47,-4
+1. Bundesliga,2005/2006,Arminia Bielefeld,Bielefeld,34,37,10,17,7,32,47,-15
+1. Bundesliga,2005/2006,Eintracht Frankfurt,Frankfurt,34,36,9,16,9,42,51,-9
+1. Bundesliga,2005/2006,VfL Wolfsburg,Wolfsburg,34,34,7,14,13,33,55,-22
+1. Bundesliga,2005/2006,1. FC Kaiserslautern,Kaiserslautern,34,33,8,17,9,47,71,-24
+1. Bundesliga,2005/2006,1. FC Köln,Köln,34,30,7,18,9,49,71,-22
+1. Bundesliga,2005/2006,MSV Duisburg,Duisburg,34,27,5,17,12,34,63,-29
+1. Bundesliga,2006/2007,VfB Stuttgart,Stuttgart,34,70,21,6,7,61,37,24
+1. Bundesliga,2006/2007,FC Schalke 04,Schalke,34,68,21,8,5,53,32,21
+1. Bundesliga,2006/2007,Werder Bremen,Bremen,34,66,20,8,6,76,40,36
+1. Bundesliga,2006/2007,FC Bayern München,Bayern,34,60,18,10,6,55,40,15
+1. Bundesliga,2006/2007,Bayer Leverkusen,Leverkusen,34,51,15,13,6,54,49,5
+1. Bundesliga,2006/2007,1. FC Nürnberg,Nürnberg,34,48,11,8,15,43,32,11
+1. Bundesliga,2006/2007,Hamburger SV,HSV,34,45,10,9,15,43,37,6
+1. Bundesliga,2006/2007,VfL Bochum,Bochum,34,45,13,15,6,49,50,-1
+1. Bundesliga,2006/2007,Borussia Dortmund,Dortmund,34,44,12,14,8,41,43,-2
+1. Bundesliga,2006/2007,Hertha BSC,Hertha,34,44,12,14,8,50,55,-5
+1. Bundesliga,2006/2007,Hannover 96,Hannover,34,44,12,14,8,41,50,-9
+1. Bundesliga,2006/2007,Arminia Bielefeld,Bielefeld,34,42,11,14,9,47,49,-2
+1. Bundesliga,2006/2007,FC Energie Cottbus,Cottbus,34,41,11,15,8,38,49,-11
+1. Bundesliga,2006/2007,Eintracht Frankfurt,Frankfurt,34,40,9,12,13,46,58,-12
+1. Bundesliga,2006/2007,VfL Wolfsburg,Wolfsburg,34,37,8,13,13,37,45,-8
+1. Bundesliga,2006/2007,1. FSV Mainz 05,Mainz,34,34,8,16,10,34,57,-23
+1. Bundesliga,2006/2007,Alemannia Aachen,Aachen,34,34,9,18,7,46,70,-24
+1. Bundesliga,2006/2007,Borussia Mönchengladbach,Gladbach,34,26,6,20,8,23,44,-21
+1. Bundesliga,2007/2008,FC Bayern München,Bayern,34,76,22,2,10,68,21,47
+1. Bundesliga,2007/2008,Werder Bremen,Bremen,34,66,20,8,6,75,45,30
+1. Bundesliga,2007/2008,FC Schalke 04,Schalke,34,64,18,6,10,55,32,23
+1. Bundesliga,2007/2008,Hamburger SV,HSV,34,54,14,8,12,47,26,21
+1. Bundesliga,2007/2008,VfL Wolfsburg,Wolfsburg,34,54,15,10,9,58,46,12
+1. Bundesliga,2007/2008,VfB Stuttgart,Stuttgart,34,52,16,14,4,57,57,0
+1. Bundesliga,2007/2008,Bayer Leverkusen,Leverkusen,34,51,15,13,6,57,40,17
+1. Bundesliga,2007/2008,Hannover 96,Hannover,34,49,13,11,10,54,56,-2
+1. Bundesliga,2007/2008,Eintracht Frankfurt,Frankfurt,34,46,12,12,10,43,50,-7
+1. Bundesliga,2007/2008,Hertha BSC,Hertha,34,44,12,14,8,39,44,-5
+1. Bundesliga,2007/2008,Karlsruher SC,Karlsruhe,34,43,11,13,10,38,53,-15
+1. Bundesliga,2007/2008,VfL Bochum,Bochum,34,41,10,13,11,48,54,-6
+1. Bundesliga,2007/2008,Borussia Dortmund,Dortmund,34,40,10,14,10,50,62,-12
+1. Bundesliga,2007/2008,FC Energie Cottbus,Cottbus,34,36,9,16,9,35,56,-21
+1. Bundesliga,2007/2008,Arminia Bielefeld,Bielefeld,34,34,8,16,10,35,60,-25
+1. Bundesliga,2007/2008,1. FC Nürnberg,Nürnberg,34,31,7,17,10,35,51,-16
+1. Bundesliga,2007/2008,FC Hansa Rostock,Rostock,34,30,8,20,6,30,52,-22
+1. Bundesliga,2007/2008,MSV Duisburg,Duisburg,34,29,8,21,5,36,55,-19
+1. Bundesliga,2008/2009,VfL Wolfsburg,Wolfsburg,34,69,21,7,6,80,41,39
+1. Bundesliga,2008/2009,FC Bayern München,Bayern,34,67,20,7,7,71,42,29
+1. Bundesliga,2008/2009,VfB Stuttgart,Stuttgart,34,64,19,8,7,63,43,20
+1. Bundesliga,2008/2009,Hertha BSC,Hertha,34,63,19,9,6,48,41,7
+1. Bundesliga,2008/2009,Hamburger SV,HSV,34,61,19,11,4,49,47,2
+1. Bundesliga,2008/2009,Borussia Dortmund,Dortmund,34,59,15,5,14,60,37,23
+1. Bundesliga,2008/2009,TSG 1899 Hoffenheim,Hoffenheim,34,55,15,9,10,63,49,14
+1. Bundesliga,2008/2009,FC Schalke 04,Schalke,34,50,14,12,8,47,35,12
+1. Bundesliga,2008/2009,Bayer Leverkusen,Leverkusen,34,49,14,13,7,59,46,13
+1. Bundesliga,2008/2009,Werder Bremen,Bremen,34,45,12,13,9,64,50,14
+1. Bundesliga,2008/2009,Hannover 96,Hannover,34,40,10,14,10,49,69,-20
+1. Bundesliga,2008/2009,1. FC Köln,Köln,34,39,11,17,6,35,50,-15
+1. Bundesliga,2008/2009,Eintracht Frankfurt,Frankfurt,34,33,8,17,9,39,60,-21
+1. Bundesliga,2008/2009,VfL Bochum,Bochum,34,32,7,16,11,39,55,-16
+1. Bundesliga,2008/2009,Borussia Mönchengladbach,Gladbach,34,31,8,19,7,39,62,-23
+1. Bundesliga,2008/2009,FC Energie Cottbus,Cottbus,34,30,8,20,6,30,57,-27
+1. Bundesliga,2008/2009,Karlsruher SC,Karlsruhe,34,29,8,21,5,30,54,-24
+1. Bundesliga,2008/2009,Arminia Bielefeld,Bielefeld,34,28,4,14,16,29,56,-27
+1. Bundesliga,2009/2010,FC Bayern München,Bayern,34,70,20,4,10,72,31,41
+1. Bundesliga,2009/2010,FC Schalke 04,Schalke,34,65,19,7,8,53,31,22
+1. Bundesliga,2009/2010,Werder Bremen,Bremen,34,61,17,7,10,71,40,31
+1. Bundesliga,2009/2010,Bayer Leverkusen,Leverkusen,34,59,15,5,14,65,38,27
+1. Bundesliga,2009/2010,Borussia Dortmund,Dortmund,34,57,16,9,9,54,42,12
+1. Bundesliga,2009/2010,VfB Stuttgart,Stuttgart,34,55,15,9,10,51,41,10
+1. Bundesliga,2009/2010,Hamburger SV,HSV,34,52,13,8,13,56,41,15
+1. Bundesliga,2009/2010,VfL Wolfsburg,Wolfsburg,34,50,14,12,8,64,58,6
+1. Bundesliga,2009/2010,1. FSV Mainz 05,Mainz,34,47,12,11,11,36,42,-6
+1. Bundesliga,2009/2010,Eintracht Frankfurt,Frankfurt,34,46,12,12,10,47,54,-7
+1. Bundesliga,2009/2010,TSG 1899 Hoffenheim,Hoffenheim,34,42,11,14,9,44,42,2
+1. Bundesliga,2009/2010,Borussia Mönchengladbach,Gladbach,34,39,10,15,9,43,60,-17
+1. Bundesliga,2009/2010,1. FC Köln,Köln,34,38,9,14,11,33,42,-9
+1. Bundesliga,2009/2010,SC Freiburg,Freiburg,34,35,9,17,8,35,59,-24
+1. Bundesliga,2009/2010,Hannover 96,Hannover,34,33,9,19,6,43,67,-24
+1. Bundesliga,2009/2010,1. FC Nürnberg,Nürnberg,34,31,8,19,7,32,58,-26
+1. Bundesliga,2009/2010,VfL Bochum,Bochum,34,28,6,18,10,33,64,-31
+1. Bundesliga,2009/2010,Hertha BSC,Hertha,34,24,5,20,9,34,56,-22
+1. Bundesliga,2010/2011,Borussia Dortmund,Dortmund,34,75,23,5,6,67,22,45
+1. Bundesliga,2010/2011,Bayer Leverkusen,Leverkusen,34,68,20,6,8,64,44,20
+1. Bundesliga,2010/2011,FC Bayern München,Bayern,34,65,19,7,8,81,40,41
+1. Bundesliga,2010/2011,Hannover 96,Hannover,34,60,19,12,3,49,45,4
+1. Bundesliga,2010/2011,1. FSV Mainz 05,Mainz,34,58,18,12,4,52,39,13
+1. Bundesliga,2010/2011,1. FC Nürnberg,Nürnberg,34,47,13,13,8,47,45,2
+1. Bundesliga,2010/2011,1. FC Kaiserslautern,Kaiserslautern,34,46,13,14,7,48,51,-3
+1. Bundesliga,2010/2011,Hamburger SV,HSV,34,45,12,13,9,46,52,-6
+1. Bundesliga,2010/2011,SC Freiburg,Freiburg,34,44,13,16,5,41,50,-9
+1. Bundesliga,2010/2011,1. FC Köln,Köln,34,44,13,16,5,47,62,-15
+1. Bundesliga,2010/2011,TSG 1899 Hoffenheim,Hoffenheim,34,43,11,13,10,50,50,0
+1. Bundesliga,2010/2011,VfB Stuttgart,Stuttgart,34,42,12,16,6,60,59,1
+1. Bundesliga,2010/2011,Werder Bremen,Bremen,34,41,10,13,11,47,61,-14
+1. Bundesliga,2010/2011,FC Schalke 04,Schalke,34,40,11,16,7,38,44,-6
+1. Bundesliga,2010/2011,VfL Wolfsburg,Wolfsburg,34,38,9,14,11,43,48,-5
+1. Bundesliga,2010/2011,Borussia Mönchengladbach,Gladbach,34,36,10,18,6,48,65,-17
+1. Bundesliga,2010/2011,Eintracht Frankfurt,Frankfurt,34,34,9,18,7,31,49,-18
+1. Bundesliga,2010/2011,FC St. Pauli,St. Pauli,34,29,8,21,5,35,68,-33
+1. Bundesliga,2011/2012,Borussia Dortmund,Dortmund,34,81,25,3,6,80,25,55
+1. Bundesliga,2011/2012,FC Bayern München,Bayern,34,73,23,7,4,77,22,55
+1. Bundesliga,2011/2012,FC Schalke 04,Schalke,34,64,20,10,4,74,44,30
+1. Bundesliga,2011/2012,Borussia Mönchengladbach,Gladbach,34,60,17,8,9,49,24,25
+1. Bundesliga,2011/2012,Bayer Leverkusen,Leverkusen,34,54,15,10,9,52,44,8
+1. Bundesliga,2011/2012,VfB Stuttgart,Stuttgart,34,53,15,11,8,63,46,17
+1. Bundesliga,2011/2012,Hannover 96,Hannover,34,48,12,10,12,41,45,-4
+1. Bundesliga,2011/2012,VfL Wolfsburg,Wolfsburg,34,44,13,16,5,47,60,-13
+1. Bundesliga,2011/2012,Werder Bremen,Bremen,34,42,11,14,9,49,58,-9
+1. Bundesliga,2011/2012,1. FC Nürnberg,Nürnberg,34,42,12,16,6,38,49,-11
+1. Bundesliga,2011/2012,TSG 1899 Hoffenheim,TSG,34,41,10,13,11,41,47,-6
+1. Bundesliga,2011/2012,SC Freiburg,Freiburg,34,40,10,14,10,45,61,-16
+1. Bundesliga,2011/2012,1. FSV Mainz 05,Mainz,34,39,9,13,12,47,51,-4
+1. Bundesliga,2011/2012,FC Augsburg,Augsburg,34,38,8,12,14,36,49,-13
+1. Bundesliga,2011/2012,Hamburger SV,HSV,34,36,8,14,12,35,57,-22
+1. Bundesliga,2011/2012,Hertha BSC,Hertha,34,31,7,17,10,38,64,-26
+1. Bundesliga,2011/2012,1. FC Köln,Köln,34,30,8,20,6,39,75,-36
+1. Bundesliga,2011/2012,1. FC Kaiserslautern,Kaiserslautern,34,23,4,19,11,24,54,-30
+1. Bundesliga,2012/2013,FC Bayern München,Bayern,34,91,29,1,4,98,18,80
+1. Bundesliga,2012/2013,Borussia Dortmund,Dortmund,34,66,19,6,9,81,42,39
+1. Bundesliga,2012/2013,Bayer Leverkusen,Leverkusen,34,65,19,7,8,65,39,26
+1. Bundesliga,2012/2013,FC Schalke 04,Schalke,34,55,16,11,7,58,50,8
+1. Bundesliga,2012/2013,SC Freiburg,Freiburg,34,51,14,11,9,45,40,5
+1. Bundesliga,2012/2013,Eintracht Frankfurt,Frankfurt,34,51,14,11,9,49,46,3
+1. Bundesliga,2012/2013,Hamburger SV,HSV,34,48,14,14,6,42,53,-11
+1. Bundesliga,2012/2013,Borussia Mönchengladbach,Gladbach,34,47,12,11,11,45,49,-4
+1. Bundesliga,2012/2013,Hannover 96,Hannover,34,45,13,15,6,60,62,-2
+1. Bundesliga,2012/2013,1. FC Nürnberg,Nürnberg,34,44,11,12,11,39,47,-8
+1. Bundesliga,2012/2013,VfL Wolfsburg,Wolfsburg,34,43,10,11,13,47,52,-5
+1. Bundesliga,2012/2013,VfB Stuttgart,Stuttgart,34,43,12,15,7,37,55,-18
+1. Bundesliga,2012/2013,1. FSV Mainz 05,Mainz,34,42,10,12,12,42,44,-2
+1. Bundesliga,2012/2013,Werder Bremen,Bremen,34,34,8,16,10,50,66,-16
+1. Bundesliga,2012/2013,FC Augsburg,Augsburg,34,33,8,17,9,33,51,-18
+1. Bundesliga,2012/2013,TSG 1899 Hoffenheim,Hoffenheim,34,31,8,19,7,42,67,-25
+1. Bundesliga,2012/2013,Fortuna Düsseldorf,Düsseldorf,34,30,7,18,9,39,57,-18
+1. Bundesliga,2012/2013,SpVgg Greuther Fürth,Fürth,34,21,4,21,9,26,60,-34
+1. Bundesliga,2013/2014,FC Bayern München,Bayern,34,90,29,2,3,94,23,71
+1. Bundesliga,2013/2014,Borussia Dortmund,Dortmund,34,71,22,7,5,80,38,42
+1. Bundesliga,2013/2014,FC Schalke 04,Schalke,34,64,19,8,7,63,43,20
+1. Bundesliga,2013/2014,Bayer Leverkusen,Leverkusen,34,61,19,11,4,60,41,19
+1. Bundesliga,2013/2014,VfL Wolfsburg,Wolfsburg,34,60,18,10,6,63,50,13
+1. Bundesliga,2013/2014,Borussia Mönchengladbach,Gladbach,34,55,16,11,7,59,43,16
+1. Bundesliga,2013/2014,1. FSV Mainz 05,Mainz,34,53,16,13,5,52,54,-2
+1. Bundesliga,2013/2014,FC Augsburg,Augsburg,34,52,15,12,7,47,47,0
+1. Bundesliga,2013/2014,TSG 1899 Hoffenheim,TSG,34,44,11,12,11,72,70,2
+1. Bundesliga,2013/2014,Hannover 96,Hannover,34,42,12,16,6,46,59,-13
+1. Bundesliga,2013/2014,Hertha BSC,Hertha,34,41,11,15,8,40,48,-8
+1. Bundesliga,2013/2014,Werder Bremen,Bremen,34,39,10,15,9,42,66,-24
+1. Bundesliga,2013/2014,Eintracht Frankfurt,Frankfurt,34,36,9,16,9,40,57,-17
+1. Bundesliga,2013/2014,SC Freiburg,Freiburg,34,36,9,16,9,43,61,-18
+1. Bundesliga,2013/2014,VfB Stuttgart,Stuttgart,34,32,8,18,8,49,62,-13
+1. Bundesliga,2013/2014,Hamburger SV,HSV,34,27,7,21,6,51,75,-24
+1. Bundesliga,2013/2014,1. FC Nürnberg,Nürnberg,34,26,5,18,11,37,70,-33
+1. Bundesliga,2013/2014,Eintracht Braunschweig,Braunschweig,34,25,6,21,7,29,60,-31
+1. Bundesliga,2014/2015,FC Bayern München,Bayern,34,79,25,5,4,80,18,62
+1. Bundesliga,2014/2015,VfL Wolfsburg,Wolfsburg,34,69,20,5,9,72,38,34
+1. Bundesliga,2014/2015,Borussia Mönchengladbach,Gladbach,34,66,19,6,9,53,26,27
+1. Bundesliga,2014/2015,Bayer Leverkusen,Leverkusen,34,61,17,7,10,62,37,25
+1. Bundesliga,2014/2015,FC Augsburg,Augsburg,34,49,15,15,4,43,43,0
+1. Bundesliga,2014/2015,FC Schalke 04,Schalke,34,48,13,12,9,42,40,2
+1. Bundesliga,2014/2015,Borussia Dortmund,Dortmund,34,46,13,14,7,47,42,5
+1. Bundesliga,2014/2015,TSG 1899 Hoffenheim,Hoffenheim,34,44,12,14,8,49,55,-6
+1. Bundesliga,2014/2015,Eintracht Frankfurt,Frankfurt,34,43,11,13,10,56,62,-6
+1. Bundesliga,2014/2015,Werder Bremen,Bremen,34,43,11,13,10,50,65,-15
+1. Bundesliga,2014/2015,1. FSV Mainz 05,Mainz,34,40,9,12,13,45,47,-2
+1. Bundesliga,2014/2015,1. FC Köln,Köln,34,40,9,12,13,34,40,-6
+1. Bundesliga,2014/2015,Hannover 96,Hannover,34,37,9,15,10,40,56,-16
+1. Bundesliga,2014/2015,VfB Stuttgart,Stuttgart,34,36,9,16,9,42,60,-18
+1. Bundesliga,2014/2015,Hertha BSC,Hertha,34,35,9,17,8,36,52,-16
+1. Bundesliga,2014/2015,Hamburger SV,HSV,34,35,9,17,8,25,50,-25
+1. Bundesliga,2014/2015,SC Freiburg,Freiburg,34,34,7,14,13,36,47,-11
+1. Bundesliga,2014/2015,SC Paderborn 07,Paderborn,34,31,7,17,10,31,65,-34
+1. Bundesliga,2015/2016,FC Bayern München,Bayern,34,88,28,2,4,80,17,63
+1. Bundesliga,2015/2016,Borussia Dortmund,Dortmund,34,78,24,4,6,82,34,48
+1. Bundesliga,2015/2016,Bayer Leverkusen,Leverkusen,34,60,18,10,6,56,40,16
+1. Bundesliga,2015/2016,Borussia Mönchengladbach,Gladbach,34,55,17,13,4,67,50,17
+1. Bundesliga,2015/2016,FC Schalke 04,Schalke,34,52,15,12,7,51,49,2
+1. Bundesliga,2015/2016,1. FSV Mainz 05,Mainz,34,50,14,12,8,46,42,4
+1. Bundesliga,2015/2016,Hertha BSC,Hertha,34,50,14,12,8,42,42,0
+1. Bundesliga,2015/2016,VfL Wolfsburg,Wolfsburg,34,45,12,13,9,47,49,-2
+1. Bundesliga,2015/2016,1. FC Köln,Köln,34,43,10,11,13,38,42,-4
+1. Bundesliga,2015/2016,Hamburger SV,HSV,34,41,11,15,8,40,46,-6
+1. Bundesliga,2015/2016,FC Ingolstadt 04,Ingolstadt,34,40,10,14,10,33,42,-9
+1. Bundesliga,2015/2016,FC Augsburg,Augsburg,34,38,9,14,11,42,52,-10
+1. Bundesliga,2015/2016,Werder Bremen,Bremen,34,38,10,16,8,50,65,-15
+1. Bundesliga,2015/2016,SV Darmstadt 98,Darmstadt,34,38,9,14,11,38,53,-15
+1. Bundesliga,2015/2016,TSG 1899 Hoffenheim,Hoffenheim,34,37,9,15,10,39,54,-15
+1. Bundesliga,2015/2016,Eintracht Frankfurt,Frankfurt,34,36,9,16,9,34,52,-18
+1. Bundesliga,2015/2016,VfB Stuttgart,Stuttgart,34,33,9,19,6,50,75,-25
+1. Bundesliga,2015/2016,Hannover 96,Hannover,34,25,7,23,4,31,62,-31
+1. Bundesliga,2016/2017,FC Bayern München,Bayern,34,82,25,2,7,89,22,67
+1. Bundesliga,2016/2017,RB Leipzig,Leipzig,34,67,20,7,7,66,39,27
+1. Bundesliga,2016/2017,Borussia Dortmund,Dortmund,34,64,18,6,10,72,40,32
+1. Bundesliga,2016/2017,TSG 1899 Hoffenheim,Hoffenheim,34,62,16,4,14,64,37,27
+1. Bundesliga,2016/2017,1. FC Köln,Köln,34,49,12,9,13,51,42,9
+1. Bundesliga,2016/2017,Hertha BSC,Hertha,34,49,15,15,4,43,47,-4
+1. Bundesliga,2016/2017,SC Freiburg,Freiburg,34,48,14,14,6,42,60,-18
+1. Bundesliga,2016/2017,Werder Bremen,Bremen,34,45,13,15,6,61,64,-3
+1. Bundesliga,2016/2017,Borussia Mönchengladbach,Gladbach,34,45,12,13,9,45,49,-4
+1. Bundesliga,2016/2017,FC Schalke 04,Schalke,34,43,11,13,10,45,40,5
+1. Bundesliga,2016/2017,Eintracht Frankfurt,Frankfurt,34,42,11,14,9,36,43,-7
+1. Bundesliga,2016/2017,Bayer Leverkusen,Leverkusen,34,41,11,15,8,53,55,-2
+1. Bundesliga,2016/2017,FC Augsburg,Augsburg,34,38,9,14,11,35,51,-16
+1. Bundesliga,2016/2017,Hamburger SV,HSV,34,38,10,16,8,33,61,-28
+1. Bundesliga,2016/2017,1. FSV Mainz 05,Mainz,34,37,10,17,7,44,55,-11
+1. Bundesliga,2016/2017,VfL Wolfsburg,Wolfsburg,34,37,10,17,7,34,52,-18
+1. Bundesliga,2016/2017,FC Ingolstadt 04,Ingolstadt,34,32,8,18,8,36,57,-21
+1. Bundesliga,2016/2017,SV Darmstadt 98,Darmstadt,34,25,7,23,4,28,63,-35
+1. Bundesliga,2017/2018,FC Bayern München,Bayern,34,84,27,4,3,92,28,64
+1. Bundesliga,2017/2018,FC Schalke 04,Schalke,34,63,18,7,9,53,37,16
+1. Bundesliga,2017/2018,TSG 1899 Hoffenheim,Hoffenheim,34,55,15,9,10,66,48,18
+1. Bundesliga,2017/2018,Borussia Dortmund,Dortmund,34,55,15,9,10,64,47,17
+1. Bundesliga,2017/2018,Bayer Leverkusen,Leverkusen,34,55,15,9,10,58,44,14
+1. Bundesliga,2017/2018,RB Leipzig,Leipzig,34,53,15,11,8,57,53,4
+1. Bundesliga,2017/2018,VfB Stuttgart,Stuttgart,34,51,15,13,6,36,36,0
+1. Bundesliga,2017/2018,Eintracht Frankfurt,Frankfurt,34,49,14,13,7,45,45,0
+1. Bundesliga,2017/2018,Borussia Mönchengladbach,Gladbach,34,47,13,13,8,47,52,-5
+1. Bundesliga,2017/2018,Hertha BSC,Hertha,34,43,10,11,13,43,46,-3
+1. Bundesliga,2017/2018,Werder Bremen,Bremen,34,42,10,12,12,37,40,-3
+1. Bundesliga,2017/2018,FC Augsburg,Augsburg,34,41,10,13,11,43,46,-3
+1. Bundesliga,2017/2018,Hannover 96,Hannover,34,39,10,15,9,44,54,-10
+1. Bundesliga,2017/2018,1. FSV Mainz 05,Mainz,34,36,9,16,9,38,52,-14
+1. Bundesliga,2017/2018,SC Freiburg,Freiburg,34,36,8,14,12,32,56,-24
+1. Bundesliga,2017/2018,VfL Wolfsburg,Wolfsburg,34,33,6,13,15,36,48,-12
+1. Bundesliga,2017/2018,Hamburger SV,HSV,34,31,8,19,7,29,53,-24
+1. Bundesliga,2017/2018,1. FC Köln,Köln,34,22,5,22,7,35,70,-35
+1. Bundesliga,2018/2019,FC Bayern München,Bayern,34,78,24,4,6,88,32,56
+1. Bundesliga,2018/2019,Borussia Dortmund,Dortmund,34,76,23,4,7,81,44,37
+1. Bundesliga,2018/2019,RB Leipzig,Leipzig,34,66,19,6,9,63,29,34
+1. Bundesliga,2018/2019,Bayer Leverkusen,Leverkusen,34,58,18,12,4,69,52,17
+1. Bundesliga,2018/2019,Borussia Mönchengladbach,Gladbach,34,55,16,11,7,55,42,13
+1. Bundesliga,2018/2019,VfL Wolfsburg,Wolfsburg,34,55,16,11,7,62,50,12
+1. Bundesliga,2018/2019,Eintracht Frankfurt,Frankfurt,34,54,15,10,9,60,48,12
+1. Bundesliga,2018/2019,Werder Bremen,Bremen,34,53,14,9,11,58,49,9
+1. Bundesliga,2018/2019,TSG 1899 Hoffenheim,Hoffenheim,34,51,13,9,12,70,52,18
+1. Bundesliga,2018/2019,Fortuna Düsseldorf,Düsseldorf,34,44,13,16,5,49,65,-16
+1. Bundesliga,2018/2019,Hertha BSC,Hertha,34,43,11,13,10,49,57,-8
+1. Bundesliga,2018/2019,1. FSV Mainz 05,Mainz,34,43,12,15,7,46,57,-11
+1. Bundesliga,2018/2019,SC Freiburg,Freiburg,34,36,8,14,12,46,61,-15
+1. Bundesliga,2018/2019,FC Schalke 04,Schalke,34,33,8,17,9,37,55,-18
+1. Bundesliga,2018/2019,FC Augsburg,Augsburg,34,32,8,18,8,51,71,-20
+1. Bundesliga,2018/2019,VfB Stuttgart,Stuttgart,34,28,7,20,7,32,70,-38
+1. Bundesliga,2018/2019,Hannover 96,Hannover,34,21,5,23,6,31,71,-40
+1. Bundesliga,2018/2019,1. FC Nürnberg,Nürnberg,34,19,3,21,10,26,68,-42
+1. Bundesliga,2019/2020,FC Bayern München,Bayern,34,82,26,4,4,100,32,68
+1. Bundesliga,2019/2020,Borussia Dortmund,Dortmund,34,69,21,7,6,84,41,43
+1. Bundesliga,2019/2020,RB Leipzig,Leipzig,34,66,18,4,12,81,37,44
+1. Bundesliga,2019/2020,Borussia Mönchengladbach,Gladbach,34,65,20,9,5,66,40,26
+1. Bundesliga,2019/2020,Bayer Leverkusen,Leverkusen,34,63,19,9,6,61,44,17
+1. Bundesliga,2019/2020,TSG 1899 Hoffenheim,Hoffenheim,34,52,15,12,7,53,53,0
+1. Bundesliga,2019/2020,VfL Wolfsburg,Wolfsburg,34,49,13,11,10,48,46,2
+1. Bundesliga,2019/2020,SC Freiburg,Freiburg,34,48,13,12,9,48,47,1
+1. Bundesliga,2019/2020,Eintracht Frankfurt,Frankfurt,34,45,13,15,6,59,60,-1
+1. Bundesliga,2019/2020,Hertha BSC,Hertha,34,41,11,15,8,48,59,-11
+1. Bundesliga,2019/2020,1. FC Union Berlin,Union Berlin,34,41,12,17,5,41,58,-17
+1. Bundesliga,2019/2020,FC Schalke 04,Schalke,34,39,9,13,12,38,58,-20
+1. Bundesliga,2019/2020,1. FSV Mainz 05,Mainz,34,37,11,19,4,44,65,-21
+1. Bundesliga,2019/2020,1. FC Köln,Köln,34,36,10,18,6,51,69,-18
+1. Bundesliga,2019/2020,FC Augsburg,Augsburg,34,36,9,16,9,45,63,-18
+1. Bundesliga,2019/2020,Werder Bremen,Bremen,34,31,8,19,7,42,69,-27
+1. Bundesliga,2019/2020,Fortuna Düsseldorf,Düsseldorf,34,30,6,16,12,36,67,-31
+1. Bundesliga,2019/2020,SC Paderborn 07,Paderborn,34,20,4,22,8,37,74,-37
+1. Bundesliga,2020/2021,FC Bayern München,Bayern,34,78,24,4,6,99,44,55
+1. Bundesliga,2020/2021,RB Leipzig,Leipzig,34,65,19,7,8,60,32,28
+1. Bundesliga,2020/2021,Borussia Dortmund,Dortmund,34,64,20,10,4,75,46,29
+1. Bundesliga,2020/2021,VfL Wolfsburg,Wolfsburg,34,61,17,7,10,61,37,24
+1. Bundesliga,2020/2021,Eintracht Frankfurt,Frankfurt,34,60,16,6,12,69,53,16
+1. Bundesliga,2020/2021,Bayer Leverkusen,Leverkusen,34,52,14,10,10,53,39,14
+1. Bundesliga,2020/2021,1. FC Union Berlin,Union Berlin,34,50,12,8,14,50,43,7
+1. Bundesliga,2020/2021,Borussia Mönchengladbach,Gladbach,34,49,13,11,10,64,56,8
+1. Bundesliga,2020/2021,VfB Stuttgart,Stuttgart,34,45,12,13,9,56,55,1
+1. Bundesliga,2020/2021,SC Freiburg,Freiburg,34,45,12,13,9,52,52,0
+1. Bundesliga,2020/2021,TSG 1899 Hoffenheim,Hoffenheim,34,43,11,13,10,52,54,-2
+1. Bundesliga,2020/2021,1. FSV Mainz 05,Mainz,34,39,10,15,9,39,56,-17
+1. Bundesliga,2020/2021,FC Augsburg,Augsburg,34,36,10,18,6,36,54,-18
+1. Bundesliga,2020/2021,Hertha BSC,Hertha,34,35,8,15,11,41,52,-11
+1. Bundesliga,2020/2021,Arminia Bielefeld,Bielefeld,34,35,9,17,8,26,52,-26
+1. Bundesliga,2020/2021,1. FC Köln,Köln,34,33,8,17,9,34,60,-26
+1. Bundesliga,2020/2021,Werder Bremen,Bremen,34,31,7,17,10,36,57,-21
+1. Bundesliga,2020/2021,FC Schalke 04,Schalke,34,16,3,24,7,25,86,-61
+1. Bundesliga,2021/2022,FC Bayern München,Bayern,34,77,24,5,5,97,37,60
+1. Bundesliga,2021/2022,Borussia Dortmund,Dortmund,34,69,22,9,3,85,52,33
+1. Bundesliga,2021/2022,Bayer Leverkusen,Leverkusen,34,64,19,8,7,80,47,33
+1. Bundesliga,2021/2022,RB Leipzig,Leipzig,34,58,17,10,7,72,37,35
+1. Bundesliga,2021/2022,1. FC Union Berlin,Union Berlin,34,57,16,9,9,50,44,6
+1. Bundesliga,2021/2022,SC Freiburg,Freiburg,34,55,15,9,10,58,46,12
+1. Bundesliga,2021/2022,1. FC Köln,Köln,34,52,14,10,10,52,49,3
+1. Bundesliga,2021/2022,1. FSV Mainz 05,Mainz,34,46,13,14,7,50,45,5
+1. Bundesliga,2021/2022,TSG 1899 Hoffenheim,Hoffenheim,34,46,13,14,7,58,60,-2
+1. Bundesliga,2021/2022,Borussia Mönchengladbach,Gladbach,34,45,12,13,9,54,61,-7
+1. Bundesliga,2021/2022,Eintracht Frankfurt,Frankfurt,34,42,10,12,12,45,49,-4
+1. Bundesliga,2021/2022,VfL Wolfsburg,Wolfsburg,34,42,12,16,6,43,54,-11
+1. Bundesliga,2021/2022,VfL Bochum,Bochum,34,42,12,16,6,38,52,-14
+1. Bundesliga,2021/2022,FC Augsburg,Augsburg,34,38,10,16,8,39,56,-17
+1. Bundesliga,2021/2022,VfB Stuttgart,Stuttgart,34,33,7,15,12,41,59,-18
+1. Bundesliga,2021/2022,Hertha BSC,Hertha,34,33,9,19,6,37,71,-34
+1. Bundesliga,2021/2022,Arminia Bielefeld,Bielefeld,34,28,5,16,13,27,53,-26
+1. Bundesliga,2021/2022,SpVgg Greuther Fürth,Fürth,34,18,3,22,9,28,82,-54
+1. Bundesliga,2022/2023,FC Bayern München,Bayern,34,71,21,5,8,92,38,54
+1. Bundesliga,2022/2023,Borussia Dortmund,Dortmund,34,71,22,7,5,83,44,39
+1. Bundesliga,2022/2023,RB Leipzig,Leipzig,34,66,20,8,6,64,41,23
+1. Bundesliga,2022/2023,1. FC Union Berlin,Union Berlin,34,62,18,8,8,51,38,13
+1. Bundesliga,2022/2023,SC Freiburg,Freiburg,34,59,17,9,8,51,44,7
+1. Bundesliga,2022/2023,Bayer Leverkusen,Leverkusen,34,50,14,12,8,57,49,8
+1. Bundesliga,2022/2023,Eintracht Frankfurt,Frankfurt,34,50,13,10,11,58,52,6
+1. Bundesliga,2022/2023,VfL Wolfsburg,Wolfsburg,34,49,13,11,10,57,48,9
+1. Bundesliga,2022/2023,1. FSV Mainz 05,Mainz,34,46,12,12,10,54,55,-1
+1. Bundesliga,2022/2023,Borussia Mönchengladbach,Gladbach,34,43,11,13,10,52,55,-3
+1. Bundesliga,2022/2023,1. FC Köln,Köln,34,42,10,12,12,49,54,-5
+1. Bundesliga,2022/2023,TSG 1899 Hoffenheim,Hoffenheim,34,36,10,18,6,48,57,-9
+1. Bundesliga,2022/2023,Werder Bremen,Bremen,34,36,10,18,6,51,64,-13
+1. Bundesliga,2022/2023,VfL Bochum,Bochum,34,35,10,19,5,40,72,-32
+1. Bundesliga,2022/2023,FC Augsburg,Augsburg,34,34,9,18,7,42,63,-21
+1. Bundesliga,2022/2023,VfB Stuttgart,Stuttgart,34,33,7,15,12,45,57,-12
+1. Bundesliga,2022/2023,FC Schalke 04,Schalke,34,31,7,17,10,35,71,-36
+1. Bundesliga,2022/2023,Hertha BSC,Hertha,34,29,7,19,8,42,69,-27
+1. Bundesliga,2023/2024,Bayer Leverkusen,Leverkusen,34,90,28,0,6,89,24,65
+1. Bundesliga,2023/2024,VfB Stuttgart,Stuttgart,34,73,23,7,4,78,39,39
+1. Bundesliga,2023/2024,FC Bayern München,Bayern,34,72,23,8,3,94,45,49
+1. Bundesliga,2023/2024,RB Leipzig,Leipzig,34,65,19,7,8,77,39,38
+1. Bundesliga,2023/2024,Borussia Dortmund,Dortmund,34,63,18,7,9,68,43,25
+1. Bundesliga,2023/2024,Eintracht Frankfurt,Frankfurt,34,47,11,9,14,51,50,1
+1. Bundesliga,2023/2024,TSG 1899 Hoffenheim,Hoffenheim,34,46,13,14,7,66,66,0
+1. Bundesliga,2023/2024,1. FC Heidenheim 1846,Heidenheim,34,42,10,12,12,50,55,-5
+1. Bundesliga,2023/2024,Werder Bremen,Bremen,34,42,11,14,9,48,54,-6
+1. Bundesliga,2023/2024,SC Freiburg,Freiburg,34,42,11,14,9,45,58,-13
+1. Bundesliga,2023/2024,FC Augsburg,Augsburg,34,39,10,15,9,50,60,-10
+1. Bundesliga,2023/2024,VfL Wolfsburg,Wolfsburg,34,37,10,17,7,41,56,-15
+1. Bundesliga,2023/2024,1. FSV Mainz 05,Mainz,34,35,7,13,14,39,51,-12
+1. Bundesliga,2023/2024,Borussia Mönchengladbach,Gladbach,34,34,7,14,13,56,67,-11
+1. Bundesliga,2023/2024,1. FC Union Berlin,Union Berlin,34,33,9,19,6,33,58,-25
+1. Bundesliga,2023/2024,VfL Bochum,Bochum,34,33,7,15,12,42,74,-32
+1. Bundesliga,2023/2024,1. FC Köln,Köln,34,27,5,17,12,28,60,-32
+1. Bundesliga,2023/2024,SV Darmstadt 98,Darmstadt,34,17,3,23,8,30,86,-56
+1. Bundesliga,2024/2025,FC Bayern München,Bayern,24,61,19,1,4,72,20,52
+1. Bundesliga,2024/2025,Bayer Leverkusen,Leverkusen,24,53,15,1,8,55,28,27
+1. Bundesliga,2024/2025,Eintracht Frankfurt,Frankfurt,24,42,12,6,6,50,37,13
+1. Bundesliga,2024/2025,1. FSV Mainz 05,Mainz,24,41,12,7,5,39,25,14
+1. Bundesliga,2024/2025,SC Freiburg,Freiburg,23,39,12,8,3,34,36,-2
+1. Bundesliga,2024/2025,RB Leipzig,Leipzig,24,38,10,6,8,39,33,6
+1. Bundesliga,2024/2025,VfL Wolfsburg,Wolfsburg,24,37,10,7,7,48,38,10
+1. Bundesliga,2024/2025,Borussia Mönchengladbach,Gladbach,24,37,11,9,4,38,35,3
+1. Bundesliga,2024/2025,VfB Stuttgart,Stuttgart,24,36,10,8,6,42,37,5
+1. Bundesliga,2024/2025,Borussia Dortmund,Dortmund,24,35,10,9,5,45,38,7
+1. Bundesliga,2024/2025,FC Augsburg,Augsburg,23,31,8,8,7,27,35,-8
+1. Bundesliga,2024/2025,Werder Bremen,Bremen,24,30,8,10,6,36,49,-13
+1. Bundesliga,2024/2025,TSG 1899 Hoffenheim,Hoffenheim,24,25,6,11,7,31,46,-15
+1. Bundesliga,2024/2025,1. FC Union Berlin,Union Berlin,23,24,6,11,6,21,35,-14
+1. Bundesliga,2024/2025,FC St. Pauli,St. Pauli,24,21,6,15,3,18,29,-11
+1. Bundesliga,2024/2025,1. FC Heidenheim 1846,Heidenheim,24,15,4,17,3,27,50,-23
+1. Bundesliga,2024/2025,VfL Bochum,Bochum,24,15,3,15,6,22,48,-26
+1. Bundesliga,2024/2025,Holstein Kiel,Kiel,23,13,3,16,4,34,59,-25
